@@ -3,7 +3,7 @@
 ### Project 5
 ---
 ![Restaurant Review Screenshot](restaurant-review.png)
-(https://github.com/SoCalChristina/restaurant-review-app/blob/master/images/restaurant-review.png)
+
 ## Project Overview:
 Convert a static webpage to a mobile-ready web application with the following requirements:
   Add accessibility features.
