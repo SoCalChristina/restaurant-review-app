@@ -55,7 +55,7 @@ In addition to the sources commented in the code, I completed this project with 
 (https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-3-accessibility/)
 (https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-4-service-workers/)
 
-##Contact
+## Contact
 Connect with me on linkedIn (https://www.linkedin.com/in/christina-tovar-hamernik/) or Twitter (https://twitter.com/CTovarHamernik)
 
 
